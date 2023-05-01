@@ -1,0 +1,11 @@
+{
+  "name": "errand",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Afoxcute",
+  "license": "MIT",
+  "private": null,
+  "devDependencies": {
+    "hardhat": "^2.14.0"
+  }
+}
